@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="yes"?>
+<AppData xmlns="http://tempuri.org/AppData.xsd">
+  <PhoneBook>
+    <Name>zalkar</Name>
+    <PhoneNumber>996508101279</PhoneNumber>
+    <ID>-7</ID>
+  </PhoneBook>
+  <PhoneBook>
+    <Name>adilet</Name>
+    <PhoneNumber>996700234500</PhoneNumber>
+    <ID>-8</ID>
+  </PhoneBook>
+  <PhoneBook>
+    <Name>aigerim</Name>
+    <PhoneNumber>996700570213</PhoneNumber>
+    <ID>-9</ID>
+  </PhoneBook>
+  <PhoneBook>
+    <Name>piotr</Name>
+    <PhoneNumber>48500518910</PhoneNumber>
+    <ID>-10</ID>
+  </PhoneBook>
+</AppData>
